@@ -102,17 +102,3 @@ Visualized using:
 3. Connect to S3 and load data using PySpark
 4. Perform transformations and analysis
 5. Plot insights using Python libraries
-
----
-
-### 📌 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-### 👨‍💻 Author
-
-**Bharath S P**
-🔗 [LinkedIn](https://www.linkedin.com/in/bharath-s-p-2a7612184)
-📫 [bharathsp0805@gmail.com](mailto:bharathsp0805@gmail.com)
